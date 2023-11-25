@@ -250,17 +250,8 @@ Copy code
 Reminder Scheduler:
 
 Automatically sends reminders at the end of each week.
-Instructions for Setup and Running
-Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/expense-sharing-app.git
-cd expense-sharing-app
-Install Dependencies:
 
-bash
-Copy code
 # Install dependencies using your package manager
 Database Setup:
 
